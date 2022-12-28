@@ -34,18 +34,22 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
+![Screenshot_20221228_065225](https://user-images.githubusercontent.com/120101180/209819236-96c22c83-d427-480b-b1e7-42b142459d24.png)
 
 
 ### Services -
 
+![Screenshot_20221228_065244](https://user-images.githubusercontent.com/120101180/209819198-aa4f0895-f24d-4ec5-a79b-b66134cc37e9.png)
 
 
 ### Contact us -
+![Screenshot_20221228_065341](https://user-images.githubusercontent.com/120101180/209819135-f2bf8e4e-9745-4fe4-9305-3636089a2f08.png)
 
 
 
 ### health bot
 
+![Screenshot_20221228_065318](https://user-images.githubusercontent.com/120101180/209819178-2341bcac-cb4b-4958-805c-726582be0bb6.png)
 
 
 
