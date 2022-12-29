@@ -6,6 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://mango-wave-0331c1b00.2.azurestaticapps.net/
+
 **project demo video link** -https://youtu.be/pr9G7d_n1oc
 
 ## Azure technologies used for Project
