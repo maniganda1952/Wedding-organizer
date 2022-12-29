@@ -5,8 +5,8 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://mango-wave-0331c1b00.2.azurestaticapps.net/
-**project demo video link** - 
+**Project Link** -https://maniganda1952.github.io/project19/
+**project demo video link** -https://youtu.be/pr9G7d_n1oc
 
 ## Azure technologies used for Project
 
@@ -29,6 +29,7 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot_20221228_064842](https://user-images.githubusercontent.com/120101180/209818518-be130284-50a2-4a90-9aad-006880b23f60.png)
 
+![Screenshot_20221229_115337](https://user-images.githubusercontent.com/120101180/209912228-be4281fa-715b-4286-a989-d4619d02d567.png)
 
    
 
@@ -56,7 +57,3 @@ This is a web based application developed for health related based website in in
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
