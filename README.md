@@ -59,4 +59,12 @@ This is a web based application developed for health related based website in in
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 
-- HTML
+
+
+HTML
+
+CSS
+
+Pro Git
+
+Dev Docs
